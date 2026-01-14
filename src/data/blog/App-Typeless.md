@@ -1,6 +1,16 @@
-
-
-# Typeless：语音输入法新物种，AI 让信息记录进入新时代
+---
+title: Typeless：语音输入法新物种，AI 让信息记录进入新时代
+description: Typeless 以多语言与 AI 能力重塑语音输入，从精确转录迈向还原思维。
+author: Bowen Winter
+pubDatetime: 2026-1-14T16:35:00+08:00
+timezone: Asia/Shanghai
+slug: app-typeless-recommendation
+featured: true
+draft: false
+tags:
+  - 应用推荐
+  - 人工智能
+---
 
 语音输入法对我们来说已经不是什么新鲜事了，从早年间的讯飞输入法、苹果自带输入法，到今年微信输入法和豆包输入法更新支持了语音输入功能，使用语音输入法的人越来越多。不过这些语音输入法希望实现的目标都是尽可能 100% 还原人类口中说出的语句，看起来好像没有什么问题，但是忽略了一个很重要的事实：人不是完美的，因此口头表达也不会 100% 正确。
 
